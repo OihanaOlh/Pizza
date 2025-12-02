@@ -1,0 +1,18 @@
+Package: practise
+Type: Package
+Title: The Title of the Project
+Version: 0.0.0.9000
+Authors@R: c(
+    person(given   = "Oihana",
+           family  = "Olhasque",
+           role    = c("aut", "cre", "cph"),
+           email   = "oihana.olhasque@al-lark.org",
+           comment = c(ORCID = "0009-0005-3806-5090")))
+Description: A paragraph providing a full description of the project (on 
+    several lines...)
+URL: https://github.com/OihanaOlhasque/practise
+BugReports: https://github.com/OihanaOlhasque/practise/issues
+License: GPL-2
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
