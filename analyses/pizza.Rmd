@@ -1,0 +1,6 @@
+I want to cook pizza 
+
+```{r}
+ggplot(data=iris)+
+  geom_point(mapping=aes(x=Petal.Length,y=Petal.Width))
+```
