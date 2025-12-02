@@ -6,3 +6,6 @@ add_license(license = "GPL-2")
 add_compendium(compendium = c("data", "analyses", "R", "figures", "outputs"))
 ## Ajout d'un script R ----
 utils::file.edit(here::here("analyses", "download-data.R"))
+
+# Création d'un fichier gitignore 
+rcompendium::add_to_gitignore()
